@@ -1,6 +1,6 @@
 # Need an environment to test webhooks locally?
 
-It comes up sometimes where we want to not only *receieve* webhooks, but also programatically play with them.  
+It comes up sometimes where we want to not only *receieve* webhooks and also programatically play with them.  
 
 ![Running ./run.sh](https://dl.dropbox.com/s/5r5wps4fbddktma/mux-localWebhookTesting.gif)
 
@@ -18,7 +18,7 @@ Here are a small set of scripts that:
 
 ## webhookListener.py
 
-This has a simple route at base URL which accepts GET and POST requests. Flask uses the class "request" for the response it receives as the webhook receiver. You can find all the available methods [here](https://tedboy.github.io/flask/generated/generated/flask.Request.html) to play with. 
+This has a simple route at base URL which accepts GET and POST requests. Flask uses the class "request" for the response it receives as the webhook receiver. You can find all the available methods to play with [here](https://tedboy.github.io/flask/generated/generated/flask.Request.html). 
 
 ## testSender.py
 
