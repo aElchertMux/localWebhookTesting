@@ -1,6 +1,6 @@
 import requests, json
 
-webhookURL = 'http://b569-73-187-212-93.ngrok.io'
+webhookURL = ''
 
 data = {'name': 'adam', 'dogs': ['conway', 'hank']}
 
