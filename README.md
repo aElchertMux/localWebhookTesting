@@ -2,7 +2,7 @@
 
 It comes up sometimes where we want to not only *receieve* webhooks, but also programatically play with them.  
 
-![Running ./run.sh](https://dl.dropboxusercontent.com/s/sjrl59pp84aqsqm/mux-localWebhookTesting.gif =250px)
+![Running ./run.sh](https://dl.dropboxusercontent.com/s/sjrl59pp84aqsqm/mux-localWebhookTesting.gif)
 
 Here are a small set of scripts that:
 * Connects ngrok to provide a public tunnel
