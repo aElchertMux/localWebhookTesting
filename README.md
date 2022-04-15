@@ -1,6 +1,4 @@
-# Need an environment to test webhooks locally?
-
-Creates an place to not only *receieve* webhooks but also programatically play with them.  
+Creates a place to not only *receieve* webhooks but also programatically play with them.  
 
 ![Running ./run.sh](https://dl.dropbox.com/s/5r5wps4fbddktma/mux-localWebhookTesting.gif)
 
